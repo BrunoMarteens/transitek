@@ -1,6 +1,6 @@
 # transitek
 This is an intent to trascent throught tek from "0" at where I'll do that i never has been can.
-"Hola" este Repositorio va a ser escrito en ESPAÑOL, so I'm sorry, becouse my english is to bad.
+"Hola" este Repositorio va a ser escrito en ESPAÑOL, so I'm sorry, because my english is to bad.
 Voy a iniciar desde "0" con nulos conocimientos de programación, sólo algunos esbozos aprendidos en "Basic" durante la carrera.
 Quizás alguno pudiera ayudarme, cualquier ayuda es buena, sobre todo, cuándo te hechas a la mar, a nadar y nunca aprendiste a hacerlo.
 Precisamente así me siento, pero voy a poner toda mi capacidad y ojalá aprenda rápido, depende a dónde me dirija.
